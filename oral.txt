@@ -1,0 +1,43 @@
+-Introduction anglais
+
+Hi, thanks for coming to my presentation. Today, I'm gonna present you what I did during all this year at the Genoscope.
+My mission was to add new features on a sub-project of our main project NGL, named NGL-BI. NGL stands for Next Generation Laboratory
+Information Management System, and BI stands for Bio-Informatics. As its name implies it, NGL-BI is an application designed for the bio-informatics
+users so that they can consult data generated from genome's sequencing.
+If you don't know what sequencing is, I'm gonna explain it quickly.
+
+...
+
+
+-Une fois le plan présenté, on passe à la partie description de l'entreprise.
+	-Genoscope, appartient au CEA, qui appartient à l'institu du Genomique depuis 2007
+	-Mettre nom président actuel du Genoscope.
+	-Parler du nombre de personnes, CEA entreprise publique, 16000 employés
+	-Genoscope, 500 employés, répartis dans différentes catégories, comme les développeurs, la partie SI, les bio-infos..
+
+-On peut ensuite passer à la partie présentation de NGL
+
+	-Parler du but de NGL, le pourquoi d'une nouvelle application par rapport à l'ancienne
+	-Parler des technologies utilisées, expliquer le pourquoi de chaque technologie
+	-Faire un schéma reconstituant chaque technologie qui forment l'appli, allant du côté client au côté serveur, ainsi que les bases de données.
+	-Parler des moyens de développement, allant de l'équipe concernée au Kanban
+	-Explication du Kanban avec petits tickets qui se déplacent.
+	-Passer à l'explication sur Git, également SVN qui était utilisé avant, et le passage en open source.
+
+(13 minutes mark)...
+
+-Enfin, on passe à la troisième partie, le coeur de mon année : Le développement de NGL-BI
+
+	-Parler des premiers tickets
+	-On passe aux stats, la première fois que j'ai exploré toutes les facettes de NGL-BI (client, serveur, bdd)
+	-Le plus important concerne le bilan, où il faut que j'arrive à parler de tout, que ce soit les routes, l'app.js qui
+		redirige sur un template en fonction de la route empruntée, les controleurs qui me permettent d'appeler mes services en fonction
+		de la page affichée, mes services (L'un pour l'année, l'autre pour le général), les différents bilans ayant du être construits 
+		(ptet en premier ça, et ensuite je descends dans la techno utilisée ?), comment récupérer mes données.
+	-Les choses que je n'ai pas pu faire...
+
+
+En somme, limite un c/c de mon rapport.
+
+
+	
