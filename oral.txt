@@ -1,12 +1,21 @@
 -Introduction anglais
 
 Hi, thanks for coming to my presentation. Today, I'm gonna present you what I did during all this year at the Genoscope.
-My mission was to add new features on a sub-project of our main project NGL, named NGL-BI. NGL stands for Next Generation Laboratory
-Information Management System, and BI stands for Bio-Informatics. As its name implies it, NGL-BI is an application designed for the bio-informatics
-users so that they can consult data generated from genome's sequencing.
-If you don't know what sequencing is, I'm gonna explain it quickly.
+I began my mission on the 3rd of november 2014. My mission was to work on a sub-project of our main project NGL. NGL stands for
+Next Generation LIMS. LIMS is translated by "Laboratory Information Management System". Basically, it's an automatised management system for
+data generated in laboratory.
+We already had a LIMS at the Genoscope, but considering its age, it was to difficult to maintain it over the time, and the decision to create a
+new LIMS, based on new generation technologies, has been taken. This decision has been taken three years ago, and some projects, like the 
+one I was working on, is a soon-to-be finished project.
+After a week reading documentation, trying to make up for my lack of knowledge in javascript, i started to work on the sub-project named NGL-BI.
+It's an application designed to consult data generated from genome's sequencing.
+If you don't know what genome sequencing is, I'm gonna explain it quickly.
 
-...
+Sequencing is the process of determining the nucleotide order of a given fragment of DNA. The sequence of DNA encodes the necessary information 
+for living things to survive and reproduce. Contrary to the human genome, we still haven't sequenced most of the plants' genome. Therefore, the
+main objective at the Genoscope is to sequence the genome of most plants, to understand how they work, and what nucleotide order give a particular
+trait to the plant.
+
 
 
 -Une fois le plan présenté, on passe à la partie description de l'entreprise.
